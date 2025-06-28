@@ -1,0 +1,30 @@
+# Qt build files
+build-*/
+*.pro.user*
+*.qmake.stash
+Makefile*
+*.o
+*.obj
+*.moc
+*.exe
+*.log
+*.tmp
+*.user
+*.autosave
+
+# Qt Creator
+*.pro.user
+*.pro.user.*
+*.autosave
+
+# CMake
+CMakeLists.txt.user
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# Backup files
+*~
+*.swp
+.DS_Store
+
