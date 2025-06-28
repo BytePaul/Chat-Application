@@ -113,13 +113,6 @@ make
 
 ---
 
-## 📸 Screenshots (Optional)
-
-> You can add screenshots here using:
-> `![screenshot](screenshots/client_ui.png)`
-
----
-
 ## 📄 License
 
 MIT License © 2025 Paul Gaikwad
